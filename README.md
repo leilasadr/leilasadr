@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leilasadr/) 
+[![Email](https://img.shields.io/badge/-gmail-orange?style=for-the-badge&logo=gmail)](mailto:leilasadr54@gmail.com) 
+<br>
+
+💻🎨 I am a full stack web developer and an artist
+🤓 I am currently learning C#
+💬 Ask me about my app TIG!
+🥳 Fun fact: I am bilingual in English and Farsi!
+
 <!--
 **leilasadr/leilasadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
