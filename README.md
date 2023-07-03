@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leilasadr/)<br>
-[![Email](https://img.shields.io/badge/-gmail-orange?style=for-the-badge&logo=gmail)](mailto:leilasadr54@gmail.com) 
-<br>
+<a href="https://www.linkedin.com/in/leilasadr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:leilasadr54@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
 <br>
 
 - 💻🎨 I am a full stack web developer and an artist <br>
